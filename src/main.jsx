@@ -7,6 +7,7 @@ import DisplayTask from './DisplayTask.jsx';
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
+     <app></app>
     <DisplayTask></DisplayTask>
   </StrictMode>
 )
